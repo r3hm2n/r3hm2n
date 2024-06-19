@@ -2,6 +2,7 @@
 I'm Abdul Rehman,
 
 • I'm a young teen aiming to accomplish my goals by pursuing my hobbies.
+
 • My passion is writing code, learning new things, and building unique and interesting projects. 
 • I've been learning front-end web dev for a year and I'm now focusing on improving my skills further.
 • I am eager to contribute to projects that align with my interests and broaden my expertise.
