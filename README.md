@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Gsap, locomotive, js**
 
-- 📫 How to reach me **manohafiz08@gmail.com**
+- 📫 How to reach me **abdulrehmanshabbir0612@gmail.com**
 
 - ⚡ Fun fact **I'm Young lol**
 
